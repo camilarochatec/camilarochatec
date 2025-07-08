@@ -1,4 +1,4 @@
-# Olá! M e chamo Camila Rocha 👋
+# Olá! Me chamo Camila Rocha 👋
 
 Eu sou uma programadora apaixonada por construir e aprender. Através de **projetos práticos** e **estudos aprofundados**, estou continuamente aprimorando minhas habilidades para criar soluções atraentes e interativas para os usuários.
 
